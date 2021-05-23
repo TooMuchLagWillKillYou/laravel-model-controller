@@ -1,3 +1,3 @@
-<footer>
-    <h3>Footer</h3>
+<footer class="centering">
+    <h3>***</h3>
 </footer>

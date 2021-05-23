@@ -1,7 +1,7 @@
 @extends('layouts.main-layout')
 
 @section('content')
-    <main>
+    <main class="centering">
 
         <ul>
     
